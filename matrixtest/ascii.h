@@ -1,5 +1,7 @@
 #include "types.h"
 
+std::string asciiteststring = "THIS IS SOME SCROLLING TEXT. IT WILL SCROLL UNTIL IT RUNS OUT OF TEXT TO SCROLL. IT IS VERY LONG. I CAN NOT FIND THE END OF THIS TEXT. OH THERE IT IS >>>>      |       <=>       [__]";
+
 double ascii32arr[5][3] { // space
   {0, 0, 0},
   {0, 0, 0},
